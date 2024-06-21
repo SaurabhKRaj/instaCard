@@ -1,27 +1,3 @@
-//17
-// function btnClicked(){
-//     console.log("Button Clicked")
-// }
-// let b=document.getElementById("btn");
-// b.addEventListener('click',btnClicked);
-
-// function divClicked(){
-//     console.log("Div Clicked")
-// }
-// let a =document.getElementById("div");
-// a.addEventListener('click',divClicked);
-
-// function bodyClicked(){
-//     console.log("Body Clicked")
-// }
-// document.body.addEventListener('click',bodyClicked)
-
-// //18
-// let k = document.getElementById("anchor");
-// a.addEventListener('click',function(temp){
-// console.log("link clicked");
-// temp.preventDefault();
-// });
 
 let abc=document.querySelector("h5");
 let xyz= document.querySelector("#btn");
